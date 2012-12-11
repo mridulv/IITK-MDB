@@ -1,0 +1,23 @@
+#photo
+{
+	float:left;
+	height:400px;
+	width:400px;
+}
+
+#rhs
+{
+	float:right;
+	height:400px;
+	width:600px;
+}
+
+#query
+{
+	font-size:2em;
+}
+
+#abstract
+{
+	font-size:1.5em;
+}
